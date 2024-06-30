@@ -2,7 +2,7 @@
 This comprehensive web application allows users to manage their music playlists through a RESTful API. Built with modern web technologies, it offers a seamless experience for music enthusiasts.
 
 Technologies Used
-Frontend
+### **Frontend**
 *HTML
 *CSS
 *TypeScript

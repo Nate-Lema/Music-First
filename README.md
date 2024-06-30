@@ -1,13 +1,13 @@
 # 🎵 **Music Playlist Manager**
 This comprehensive web application allows users to manage their music playlists through a RESTful API. Built with modern web technologies, it offers a seamless experience for music enthusiasts.
 
-Technologies Used
+## **🛠️ Technologies Used**
 ### **Frontend**
-*HTML
-*CSS
-*TypeScript
-*JavaScript
-*React.js
+- **HTML**
+- **CSS**
+- **TypeScript**
+- **JavaScript**
+- **React.js**
 Backend
 *Express.js
 Features

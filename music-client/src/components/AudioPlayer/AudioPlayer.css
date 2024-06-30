@@ -1,0 +1,6 @@
+.custom-audio-player {
+  background-image: url("../../images/music-cover.png"); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
